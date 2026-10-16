@@ -1,0 +1,16 @@
+<welfare_department>
+  <citizen>
+    <citizen_id>CIT001</citizen_id>
+    <name>Rahul Sharma</name>
+    <existing_benefit>false</existing_benefit>
+    <eligible>true</eligible>
+    <scheme>National Scholarship</scheme>
+  </citizen>
+  <citizen>
+    <citizen_id>CIT002</citizen_id>
+    <name>Amit Patel</name>
+    <existing_benefit>false</existing_benefit>
+    <eligible>true</eligible>
+    <scheme>State Scholarship</scheme>
+  </citizen>
+</welfare_department>

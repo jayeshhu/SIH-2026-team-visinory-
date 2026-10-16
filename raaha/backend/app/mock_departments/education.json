@@ -1,0 +1,6 @@
+{
+  "students": {
+    "CIT001": {"student_id": "CIT001", "name": "Rahul Sharma", "enrolled": true, "institution": "Delhi University", "course": "B.Tech Computer Science", "year": 3},
+    "CIT002": {"student_id": "CIT002", "name": "Amit Patel", "enrolled": true, "institution": "Mumbai University", "course": "B.Sc Physics", "year": 2}
+  }
+}

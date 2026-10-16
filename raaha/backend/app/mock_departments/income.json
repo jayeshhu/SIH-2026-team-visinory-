@@ -1,0 +1,6 @@
+{
+  "citizens": {
+    "CIT001": {"citizen_id": "CIT001", "name": "Rahul Sharma", "annual_income": 180000, "income_eligible": true, "category": "EWS"},
+    "CIT002": {"citizen_id": "CIT002", "name": "Amit Patel", "annual_income": 1200000, "income_eligible": false, "category": "General"}
+  }
+}
